@@ -1,0 +1,41 @@
+table {
+    border: 10px solid #000000;
+    border-spacing: 0px;
+    margin: auto;
+    margin-top: 40px;
+}
+
+
+td {
+    width: 40px;
+    height: 40px;
+    border: 1px solid #131010;
+
+}
+
+.white {
+    background-color: #ffffff;
+}
+
+.black {
+    background-color: #000000;
+}
+
+.chessboard-labels {
+    text-align: center;
+    vertical-align: middle;
+    font-size: 20px;
+    font-weight: bold;
+    color: #ffffff;
+    background-color: #250c0c;
+}
+
+.Chessboard-labels {
+    text-align: center;
+    vertical-align: middle;
+    font-size: 20px;
+    font-weight: bold;
+    color: #ffffff;
+    background-color: #250c0c;
+
+}
